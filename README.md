@@ -1,69 +1,97 @@
-<!-- Header -->
+<!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Tisa Shrestha</h1>
-<h3 align="center">Aspiring Computer Engineer | Developer | Problem Solver 🚀</h3>
+<h3 align="center">Computer Engineering Student | Django Backend Developer | Tech Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Django+Backend+Developer;Computer+Engineering+Student;Problem+Solver+%26+Learner&center=true&width=550&height=45">
+</p>
 
 <p align="center">
   <a href="https://github.com/tisashrestha">
-    <img src="https://komarev.com/ghpvc/?username=tisashrestha&label=Profile%20Views&color=7E3FF2&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=tisashrestha&label=Profile%20Views&color=7E3FF2&style=flat-square" />
   </a>
 </p>
 
 ---
 
-## 🔥 About Me
-- 🎓 **Computer Engineering Student**
-- 💻 Skilled in **C / C++ | Python | Web Dev**
-- 📊 Interested in **AI, Machine Learning & Software Development**
-- 🌱 Currently learning **Advanced ML, Cloud & Full-Stack**
-  
+## 🚀 About Me
+- 🎓 **Bachelor in Computer Engineering**
+- 🧠 Backend-focused developer with **Django-first architecture**
+- 💻 Interested in **Web Development, Machine Learning & Systems**
+- 🌱 Constantly learning by building real-world projects
+
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Primary Tech Stack (Backend First)
 
-**Languages:**  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
+### 🟢 Backend & Frameworks
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Web & Tools:**  
+- Django ORM, Views, Templates  
+- Authentication & CRUD-based systems  
+- Django-based academic & personal projects  
+
+---
+
+### 🌐 Frontend (Supporting)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-## 📌 Projects Highlight
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📌 Featured Projects
 
 | Project | Tech | Description |
-|--------|------|-------------|
-| **Numerical_method_in_c** | C | Algorithms & methods in C |
-| **computer-graphics** | Python | Graphics simulations |
-| **dbms1** | Python | Database management basics |
-| **scrapper_project** | Python | Web scraping tools |
-| **personal-blog** | Python | My blog project |
-| **newsportal** | Python | News aggregator portal |
+|------|------|------------|
+| **News Portal** | Django | Web-based news management system |
+| **Personal Blog** | Django | Blog app with CRUD & templates |
+| **DBMS Project** | Python, SQL | Database fundamentals project |
+| **Web Scraper** | Python | Data scraping & processing |
+| **Numerical Methods** | C | Engineering algorithms in C |
 
-*(More repositories are available on your profile)*
-
-👉 👉 https://github.com/tisashrestha?tab=repositories
+👉 View all repositories here:  
+🔗 **https://github.com/tisashrestha?tab=repositories**
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tisashrestha&show_icons=true&theme=tokyonight" />
 </p>
 
----
-
-## 🌱 What I’m Learning
-- **Machine Learning & AI**
-- **Cloud Deployment**
-- **Full-Stack Web Apps**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tisashrestha&theme=tokyonight" />
+</p>
 
 ---
 
-⭐ **Thanks for stopping by! Feel free to connect 🙂**
+## 🌱 Currently Learning
+- Advanced Django & REST APIs  
+- Machine Learning fundamentals  
+- Cloud & deployment basics  
+- System design concepts  
+
+---
+
+⭐ **If you find my work interesting, feel free to star my repositories!**
+
 
