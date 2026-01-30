@@ -2,9 +2,6 @@
 <h1 align="center">Hi 👋, I'm Tisa Shrestha</h1>
 <h3 align="center">Computer Engineering Student | Django Backend Developer | Tech Enthusiast</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Django+Backend+Developer;Computer+Engineering+Student;Problem+Solver+%26+Learner&center=true&width=550&height=45">
-</p>
 
 <p align="center">
   <a href="https://github.com/tisashrestha">
@@ -47,13 +44,6 @@
 ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
-
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
