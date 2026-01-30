@@ -47,8 +47,10 @@
 |------|------|------------|
 | **News Portal** | Django | Web-based news management system |
 | **Personal Blog** | Django | Blog app with CRUD & templates |
+| **Todo** | Django | Todo list with CRUD |
 | **DBMS Project** | Python, SQL | Database fundamentals project |
 | **Web Scraper** | Python | Data scraping & processing |
+| **Computer-graphics** | Python | Computer graphics concepts |
 | **Numerical Methods** | C | Engineering algorithms in C |
 
  View all repositories here:  
