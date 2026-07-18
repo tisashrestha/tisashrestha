@@ -18,44 +18,44 @@
 
 ### Backend & Frameworks
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-- Django ORM, Views, Templates
-- Authentication & CRUD Applications
-- REST API Development
-- Backend System Design
-
----
-
-### Artificial Intelligence & Computer Vision
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-
-- Computer Vision
-- Object Detection
-- Image Processing
-- Deep Learning
+- Python
+- Django
+- Django ORM
+- Authentication & Authorization
+- CRUD Applications
+- REST APIs
 
 ---
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- React
+- HTML5
+- CSS3
+- JavaScript
+
+---
+
+### Artificial Intelligence & Computer Vision
+
+- PyTorch
+- TensorFlow
+- OpenCV
+- YOLO
+- PaddleOCR
+- Computer Vision
+- Object Detection
+- Deep Learning
 
 ---
 
 ### Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+- Python
+- C
+- C++
+- SQL
+- JavaScript
 
 ---
 
@@ -92,8 +92,8 @@ View all repositories here:
 - Artificial Intelligence
 - Machine Learning
 - Computer Vision
+- Web Development
 - Open Source
-- Problem Solving
 
 ---
 
