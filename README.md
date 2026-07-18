@@ -1,13 +1,13 @@
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm Tisa Shrestha</h1>
-<h3 align="center">Computer Engineering Student | Python Developer | AI & Backend Enthusiast</h3>
+<h3 align="center">Computer Engineering Graduate | Python Developer | AI Enthusiast</h3>
 
 ---
 
 ## About Me
 
 - Bachelor in Computer Engineering
-- Passionate about Python, Backend Development, Artificial Intelligence, and Computer Vision
+- Passionate about Python, Artificial Intelligence, frontend Development, Backend Development, and Computer Vision
 - Interested in Machine Learning, Web Development, and Intelligent Systems
 - Enjoy building real-world projects that solve practical problems
 - Continuously learning and improving through hands-on development
@@ -20,10 +20,8 @@
 
 - Python
 - Django
-- Django ORM
 - Authentication & Authorization
 - CRUD Applications
-- REST APIs
 
 ---
 
@@ -39,7 +37,6 @@
 ### Artificial Intelligence & Computer Vision
 
 - PyTorch
-- TensorFlow
 - OpenCV
 - YOLO
 - PaddleOCR
@@ -77,23 +74,13 @@ View all repositories here:
 
 ---
 
-## Currently Learning
-
-- Advanced Django & Django REST Framework
-- Computer Vision & Deep Learning
-- Cloud Computing & Deployment
-- System Design & Software Architecture
-
----
-
 ## Interests
 
-- Backend Development
 - Artificial Intelligence
 - Machine Learning
 - Computer Vision
-- Web Development
-- Open Source
+- Frontend Developmrnt
+- Backend Development
 
 ---
 
